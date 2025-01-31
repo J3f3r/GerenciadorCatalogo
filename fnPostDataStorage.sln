@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fnPostDataStorage", "fnPostDataStorage\fnPostDataStorage.csproj", "{EF370F41-65AC-4575-B34C-AFAB00F9C359}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fnPostDatabaseStorage", "fnPostDatabaseStorage\fnPostDatabaseStorage.csproj", "{3ACF82E5-1353-4657-A9B5-0A37E4106152}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fnGetMovieDetail", "fnGetMovieDetail\fnGetMovieDetail.csproj", "{AFEE5362-B0E2-46F2-A417-DA94BDA219CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fnGetAllMovies", "fnGetAllMovies\fnGetAllMovies.csproj", "{FE68D24E-3300-4247-87F6-98BC903F5C1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF370F41-65AC-4575-B34C-AFAB00F9C359}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF370F41-65AC-4575-B34C-AFAB00F9C359}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF370F41-65AC-4575-B34C-AFAB00F9C359}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF370F41-65AC-4575-B34C-AFAB00F9C359}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3ACF82E5-1353-4657-A9B5-0A37E4106152}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ACF82E5-1353-4657-A9B5-0A37E4106152}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ACF82E5-1353-4657-A9B5-0A37E4106152}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ACF82E5-1353-4657-A9B5-0A37E4106152}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFEE5362-B0E2-46F2-A417-DA94BDA219CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFEE5362-B0E2-46F2-A417-DA94BDA219CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFEE5362-B0E2-46F2-A417-DA94BDA219CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFEE5362-B0E2-46F2-A417-DA94BDA219CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE68D24E-3300-4247-87F6-98BC903F5C1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE68D24E-3300-4247-87F6-98BC903F5C1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE68D24E-3300-4247-87F6-98BC903F5C1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE68D24E-3300-4247-87F6-98BC903F5C1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
